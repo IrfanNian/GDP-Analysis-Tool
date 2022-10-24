@@ -5,7 +5,6 @@ This tool is based on Python and its available libraries to analyse the relation
 # License and Copyright Information
 This repository is part of an assignment submission for the fulfillment of the [Singapore Institute of Technology (SIT)](https://www.singaporetech.edu.sg/) module ICT1002 Programming Fundamentals.
 
-As such, copyright and any rights to this project shall belong to the project contributors as well as to Singapore Institute of Technology (SIT). 
 
 Plagiarism is a serious offence, and SIT's policy explicitly forbids such acts. Any submission caught with plagiarised work shall receive zero marks for their submission. 
 
